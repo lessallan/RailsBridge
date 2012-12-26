@@ -685,6 +685,9 @@ header p {
   font-size: 18px;
   margin: 0px;
 }
+#cta {
+  margin: 20px 0;
+}
 
 #banner {
   z-index: 100;
